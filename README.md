@@ -19,7 +19,7 @@ For other projects I've worked on, kindly visit my [GitHub Profile page](https:/
 
 College and research helped me develop and hone skills in `MATLAB`, `Simulink`, `Visio`, `Control Systems Design`, math modeling, and general problem-solving. Now, working as a Robotics Trainee at Robotics & Artificial Intelligence Nigeria (Nigeria's premier robotics and AI research center), I have picked up `Python`, a bit of `C++`, `Git`, basic `OpenCV`, `Robot Operating System (ROS) - Gazebo, RViz`, MIMO-system controller design, system identification, and some CAD (`Fusion 360` and `SolidWorks`). To add to my skill repertoire, I am self-studying machine learning and computer vision as they apply to robotics.
 
-On the side, I do a little writing (short stories, fiction, and memoirs) and am looking forward to being published soon! I also do an excellent job redrafting write-ups to perfection.😉
+On the side, I do a little writing (short stories, fiction, and memoirs) and am looking forward to getting published soon! I also do an excellent job redrafting write-ups to perfection.😉
 
 ### Contact
 
