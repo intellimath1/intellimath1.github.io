@@ -1,8 +1,6 @@
-<h2 align = "center"> CLINTON ENWEREM🤖🚀 </h2>
-<p align = "center"> Robotics Engineer | Avid Researcher | Amateur Singer </p>
+<h2 align = "center"> Welcome to my page!🤖🚀 </h2>
 
-Welcome! Now that you're here, feel free to check around for what I've been up to lately.
-Here's my [CV](docs/CV_1.pdf) for starters. 
+Now that you're here, feel free to check around for what I've been up to lately. Here's my [CV](docs/CV_1.pdf) for starters. 
 
 ### Research Interests👨‍🔬🔬
 
