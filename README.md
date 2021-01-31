@@ -11,7 +11,7 @@ Coming from a decent controls (EE) background, my interests are at the nexus of 
 I am currently implementing a popular visual-SLAM framework for stereo, RGB-D, and monocular cameras (ORB-SLAM2) using a basic HD USB cam. Check out the project's [GitHub Repo](https://github.com/intellimath1/ORB-SLAM2-with-monocular-camera){:target="_blank" rel="noopener"} for my progress. The original ROS package for ORB-SLAM2 can be found [here](https://github.com/appliedAI-Initiative/orb_slam_2_ros){:target="_blank" rel="noopener"}.
 
 #### 2. Teleoperable and ROS-compliant mini ground vehicle
-Using the turtlebot3_teleop package on ROS Melodic, I developed a keyboard-teleoperated ground robot that can also avoid obstacles using a ranging sensor. I wrote the ROS packages for the robot's sensor and actuator from scratch in Python and tested the system on a Raspberry Pi 3 computer. See the [GitHub page](https://github.com/intellimath1/robot_car_ros){:target="_blank" rel="noopener"} for more details. Future releases (with more sensor support) are coming soon!
+Using the turtlebot3_teleop package on ROS Melodic, I developed a keyboard-teleoperated ground robot that could also avoid obstacles using a ranging sensor. I wrote the ROS packages for the robot's sensor and actuator from scratch in Python and tested the system on a Raspberry Pi 3 computer. See the [GitHub page](https://github.com/intellimath1/robot_car_ros){:target="_blank" rel="noopener"} for more details. Future releases (with more sensor support) are coming soon!
 
 For other projects I've worked on, kindly visit my [GitHub Profile page](https://github.com/intellimath1){:target="_blank" rel="noopener"}.
 
