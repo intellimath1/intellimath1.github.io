@@ -4,7 +4,7 @@ Now that you're here, feel free to check around for what I've been up to lately.
 
 ### Research Interests👨‍🔬🔬
 
-Coming from a decent controls (EE) background, my interests are at the nexus of _control systems_, _mobile robotics_, and _computer vision_. I firmly believe advances in these fields will push the envelope in robotics and automation as we know it. For my latest research, check out my [Google Scholar](https://scholar.google.com/citations?user=fnsAFv8AAAAJ&hl=en) and [ORCID iD](https://orcid.org/0000-0002-4239-2941) profiles! I am also open to PhD, research assistantship, or research collaboration opportunities in these areas!
+Coming from a decent controls (EE) background, my interests are at the nexus of _control systems_, _mobile robotics_, and _computer vision_. I firmly believe advances in these fields will push the envelope in robotics and automation as we know it. For my latest research, check out my [Google Scholar](https://scholar.google.com/citations?user=fnsAFv8AAAAJ&hl=en){:target="_blank" rel="noopener"} and [ORCID iD](https://orcid.org/0000-0002-4239-2941) profiles! I am also open to PhD, research assistantship, or research collaboration opportunities in these areas!
 
 ### Projects 👨‍💻
 #### 1. ORB-SLAM2 implementation with a monocular camera
